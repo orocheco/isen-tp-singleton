@@ -1,4 +1,4 @@
-# Exemples d'implémentation (naïve) du singleton
+# Exemples d'implémentation (naïves) du singleton
 
 ## Olivier Rochecouste
 
